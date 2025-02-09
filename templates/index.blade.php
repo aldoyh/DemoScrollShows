@@ -84,6 +84,7 @@
   <div class="whirl"></div>
 
   <script>
+    {{IMAGES}}
     // Ensure IMAGES is initialized before use
     const IMAGES = IMAGES_DATA;
 
